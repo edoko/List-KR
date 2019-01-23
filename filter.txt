@@ -1,5 +1,5 @@
 ! Title: List-KR
-! Homepage: https://github.com/List-KR/List-KR
+! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 
 ! Workaround for BlockAdBlock
