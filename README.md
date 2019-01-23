@@ -18,11 +18,13 @@ Adguard에 대한 정보는 [이곳][]에서 찾으실 수 있습니다.
 https://github.com/List-KR/List-KR/raw/master/filter.txt
 ```
 
-#### 목록 향상에 기여하는 법
+Adguard의 경우, [Filter PR #155][] 에서 서드 파티 필터 리스트에 등재되었기 때문에 필터 구독 메뉴에서 List-KR을 찾아 추가하시면 됩니다. 만약 '(Obsolete) List-KR' 이라고 뜨는 경우 추가 후 필터 업데이트를 실행해 주시기 바랍니다.
+
+## 목록 향상에 기여하는 법
 
 환영합니다! 차단되지 않은 광고나, 차단 후 남은 빈 공간 혹은 그 외에 이 필터에서 차단하는 대상을 발견하셨다면 [Issues][] 항목에 글을 남겨 주십시오. 글을 남기실 시, 사용하시는 브라우저, 차단되지 않은 광고가 있는 정확한 주소와 차단되지 않은 광고의 위치를 묘사해주시면 도움이 됩니다. 대상을 차단할 수 있는 규칙까지 제안해 주시면 더욱 좋습니다.
 
-#### 인터넷 익스플로러에 대해서
+## 인터넷 익스플로러에 대해서
 
 인터넷 익스플로러는 크롬, 파이어폭스 등과 렌더링 방식에 차이가 있어, 기존 확장 프로그램에서 사용하도록 제작된 필터를 IE에 적용할 경우 차단 결과가 다를 수 있습니다 (이것이 Adguard를 위한 필터가 필요한 한 이유입니다). 이 필터 또한 기존에 존재하던 필터를 기반으로 작성되었기 때문에, IE에서만 광고가 차단되지 않는 경우가 있으며, 이는 지속적으로 개선 중입니다.
 
@@ -45,11 +47,16 @@ In the program you would like to use, use the following url to subscribe to or i
 https://github.com/List-KR/List-KR/raw/master/filter.txt
 ```
 
-#### How to contribute
+If you're using Adguard, just subscribe this filter in adguard's filter subscription menu. It has been re-added on [Filter PR #155][]. If '(Obsolete) List-KR' is displayed, add the filter and run the filter update please.
+
+## How to contribute
 Welcome! If you found unblocked ads, ads leftovers or any other objects that are blocked in this filter, please report it in [Issues][]. When reporting issues, it would be helpful to include the exact url where ads can be found and the description of its location. To suggest a rule to block the object is even better.
 
-#### For IE
+## For IE
 There is a slight difference in rendering methods between IE and Chrome, Firefox, so applying filters developed to be used for extensions which are present in Chrome and Firefox to IE would result in unblocked ads rarely (This is why we need a filter for Adguard). This filter is based on several existing filters as well, so you may see some ads particular to IE, which I will keep fixing.
+
+## License
+This filter is licensed under [Creative Commons Attribution-ShareAlike 4.0][] license.
 
 [Adguard]: https://adguard.com
 [Adblock Plus]: https://adblockplus.org/
@@ -58,6 +65,4 @@ There is a slight difference in rendering methods between IE and Chrome, Firefox
 [here]: https://en.wikipedia.org/wiki/AdGuard
 [Issues]: https://github.com/List-KR/List-KR/issues
 [Creative Commons Attribution-ShareAlike 4.0]: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
-
-## License
-This filter is licensed under [Creative Commons Attribution-ShareAlike 4.0][] license.
+[Filter PR #155]: https://github.com/AdguardTeam/FiltersRegistry/pull/155
