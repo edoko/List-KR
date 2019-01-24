@@ -13,7 +13,7 @@ Adguard에 대한 정보는 [이곳][]에서 찾으실 수 있습니다.
 
 ## 사용하는 법
 
-사용하고자 하는 프로그램에서 다음 URL을 사용하여 필터를 구독 또는 Import 하십시오:
+사용하고자 하는 프로그램에서 [필터 구독 주소][]를 클릭하거나 다음 URL을 사용하여 필터를 구독 또는 Import 하십시오:
 ```
 https://github.com/List-KR/List-KR/raw/master/filter.txt
 ```
@@ -42,7 +42,7 @@ This filter is focused on Korean websites, and it is recommended to use this fil
 You can find an informal introduction to Adguard [here][].
 
 ## How to use
-In the program you would like to use, use the following url to subscribe to or import List-KR.
+In the program you would like to use, [click this filter subscribe url][] or use the following url to subscribe to or import List-KR.
 ```
 https://github.com/List-KR/List-KR/raw/master/filter.txt
 ```
@@ -66,3 +66,5 @@ This filter is licensed under [Creative Commons Attribution-ShareAlike 4.0][] li
 [Issues]: https://github.com/List-KR/List-KR/issues
 [Creative Commons Attribution-ShareAlike 4.0]: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 [Filter PR #155]: https://github.com/AdguardTeam/FiltersRegistry/pull/155
+[필터 구독 주소]: https://subscribe.adblockplus.org/?location=https://github.com/List-KR/List-KR/raw/master/filter.txt&title=List-KR
+[click this filter subscribe url]: https://subscribe.adblockplus.org/?location=https://github.com/List-KR/List-KR/raw/master/filter.txt&title=List-KR
