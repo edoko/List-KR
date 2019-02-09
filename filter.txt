@@ -1199,9 +1199,10 @@
 ||lightasp.dmcmedia.co.kr/adixs/
 ||log.adtive.com/noticead/adinfo/js/notice.js^
 ||longkeyone.co.kr^
-||ltn.hitomi.la/RaCtICanTi24.js^$domain=hitomi.la
-||ltn.hitomi.la/hitomi-anintager.js^$domain=hitomi.la
-||ltn.hitomi.la/thlYeSta6.js^$domain=hitomi.la
+||ltn.hitomi.la/ipIGIssoAFF800.js$domain=hitomi.la
+||ltn.hitomi.la/neqxb2irndk.js^$domain=hitomi.la
+||ltn.hitomi.la/tomasz.js^$domain=hitomi.la
+||ltn.hitomi.la/usnousidie80.js$domain=hitomi.la
 ||m.11st.co.kr/MW/html/allianceAd/
 ||m.adnxs.com/ut/v3^
 ||m.adtc.daum.net/js/mobilead.js^
