@@ -2981,9 +2981,11 @@ kiplinger.com##div.kip-advertisement-fixed
 kiplinger.com##div.kip-banner
 kin.naver.com##div.pcDetailBannerArea
 kiplinger.com##section.kip-advertisement
+kkutu.co.kr##a[href*="play.google.com"]
 kkutu.co.kr###ADVERTISEMENT
 kkutu.co.kr###ADVERTISEMENT_TITLE
-kkutu.co.kr##.banner
+kkutu.co.kr##div.banner
+kkutu.co.kr##div#facebook-menu
 knowyourmeme.com##div.content-unit-wrapper
 knowyourmeme.com##div.header-unit-wrapper
 knowyourmeme.com##div.rectangle-unit-wrapper
