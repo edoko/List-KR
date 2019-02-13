@@ -2398,6 +2398,7 @@ edaily.co.kr##div[class^="boxbanner_"]
 edaily.co.kr##iframe[src^="/v2/iframe/iwAD.asp"]
 edaily.co.kr##section.boxbanner_970x90
 electrek.co##div.tha4673a86
+elsword.nexon.com##div.anis
 embed.nicovideo.jp##div#overlayBanner
 embed.nicovideo.jp##iframe[src^="https://ads.nicovideo.jp/bannertext"]
 en.seoul.co.kr##div.adbox03
