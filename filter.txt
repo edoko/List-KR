@@ -2243,6 +2243,9 @@ daum.net##div#daumAd
 daum.net##div.ad_rightbtm
 dcinside.com##div#dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 dcinside.com##div.ad_top
+dcinside.com##div.evt_content
+dcinside.com##div.leftbanner
+dcinside.com##div.rightbanner
 dcnewsj.joins.com##div.promotion_banner
 ddanzi.com##div.add_display
 ddanzi.com##div.add_display_new
