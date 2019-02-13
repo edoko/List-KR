@@ -2161,6 +2161,7 @@ comic.naver.com##div#webtoon_ad_section
 comicbook.com##div.adhesion-block
 comicbook.com##div.modernInContent
 comicbook.com##div.oas_desktop_banner
+communities.vmware.com##span.rotatoryBanner
 consumernews.co.kr##span.brn
 coolsoft.altervista.org##div._pb
 cosmorning.com##div#divAdLeft
