@@ -3797,7 +3797,8 @@ mainichi.jp##aside.ad.yads
 mainichi.jp##div.ad.img-left
 mangafox.me##div.ad
 mangarock.com##div.dG1Ln-2i-1-
-mangashow.me##div.banner
+mangashow.me,mangashow2.me##div.banner
+mangashow.me,mangashow2.me##a[href*="ad_"]
 mangaumaru.com,shencomics.com,yuncomics.com##aside.EzAdsWidget
 mangaumaru.com,shencomics.com,yuncomics.com##div#fbanner
 mangaumaru.com,shencomics.com,yuncomics.com##div.mobfloat
