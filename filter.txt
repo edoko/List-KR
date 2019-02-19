@@ -4100,6 +4100,7 @@ news.hankyung.com##div.hot_today
 news.hankyung.com##div.info_time
 news.hankyung.com##div.info_today
 news.hankyung.com##div.joy_info
+news.imaeil.com##div.banner
 news.joins.com##div#criteo_network
 news.joins.com##div.ab_adtxt_wrap
 news.joins.com##div.ad
